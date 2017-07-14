@@ -1,0 +1,123 @@
+D:\Programming\Projects\CarApp\samples\bin\ApplicationInsights.config
+D:\Programming\Projects\CarApp\samples\bin\roslyn\csc.exe
+D:\Programming\Projects\CarApp\samples\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programming\Projects\CarApp\samples\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\Projects\CarApp\samples\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programming\Projects\CarApp\samples\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programming\Projects\CarApp\samples\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programming\Projects\CarApp\samples\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programming\Projects\CarApp\samples\bin\roslyn\System.Collections.Immutable.dll
+D:\Programming\Projects\CarApp\samples\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programming\Projects\CarApp\samples\bin\roslyn\vbc.exe
+D:\Programming\Projects\CarApp\samples\bin\roslyn\VBCSCompiler.exe
+D:\Programming\Projects\CarApp\samples\bin\roslyn\VBCSCompiler.exe.config
+D:\Programming\Projects\CarApp\samples\bin\samples.dll.config
+D:\Programming\Projects\CarApp\samples\bin\samples.dll
+D:\Programming\Projects\CarApp\samples\bin\samples.pdb
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.AI.DependencyCollector.dll
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.AI.Web.dll
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.AI.WindowsServer.dll
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.ApplicationInsights.dll
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programming\Projects\CarApp\samples\bin\Newtonsoft.Json.dll
+D:\Programming\Projects\CarApp\samples\bin\System.Net.Http.Formatting.dll
+D:\Programming\Projects\CarApp\samples\bin\System.Web.Http.dll
+D:\Programming\Projects\CarApp\samples\bin\System.Web.Http.WebHost.dll
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.AI.DependencyCollector.xml
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.AI.Web.xml
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.AI.WindowsServer.xml
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.ApplicationInsights.xml
+D:\Programming\Projects\CarApp\samples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programming\Projects\CarApp\samples\bin\Newtonsoft.Json.xml
+D:\Programming\Projects\CarApp\samples\bin\System.Net.Http.Formatting.xml
+D:\Programming\Projects\CarApp\samples\bin\System.Web.Http.xml
+D:\Programming\Projects\CarApp\samples\bin\System.Web.Http.WebHost.xml
+D:\Programming\Projects\CarApp\samples\obj\Debug\CarApp.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\CarApp\samples\obj\Debug\samples.dll
+D:\Programming\Projects\CarApp\samples\obj\Debug\samples.pdb
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\ApplicationInsights.config
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\roslyn\csc.exe
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\roslyn\vbc.exe
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\roslyn\VBCSCompiler.exe
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\samples.dll.config
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\samples.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\samples.pdb
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.AI.Web.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Newtonsoft.Json.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\System.Net.Http.Formatting.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\System.Web.Http.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\System.Web.Http.WebHost.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.AI.Web.xml
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\Newtonsoft.Json.xml
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\System.Net.Http.Formatting.xml
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\System.Web.Http.xml
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\bin\System.Web.Http.WebHost.xml
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\obj\Debug\CarApp.csprojResolveAssemblyReference.cache
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\obj\Debug\samples.dll
+C:\Users\vagge\Documents\Visual Studio 2017\Projects\CarApp\samples\obj\Debug\samples.pdb
+C:\Users\vagge\Desktop\CarApp\samples\bin\ApplicationInsights.config
+C:\Users\vagge\Desktop\CarApp\samples\bin\roslyn\csc.exe
+C:\Users\vagge\Desktop\CarApp\samples\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vagge\Desktop\CarApp\samples\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vagge\Desktop\CarApp\samples\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\roslyn\vbc.exe
+C:\Users\vagge\Desktop\CarApp\samples\bin\roslyn\VBCSCompiler.exe
+C:\Users\vagge\Desktop\CarApp\samples\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vagge\Desktop\CarApp\samples\bin\samples.dll.config
+C:\Users\vagge\Desktop\CarApp\samples\bin\samples.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\samples.pdb
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.AI.Web.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\Newtonsoft.Json.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\System.Net.Http.Formatting.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\System.Web.Http.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\System.Web.Http.WebHost.dll
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.AI.Web.xml
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vagge\Desktop\CarApp\samples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vagge\Desktop\CarApp\samples\bin\Newtonsoft.Json.xml
+C:\Users\vagge\Desktop\CarApp\samples\bin\System.Net.Http.Formatting.xml
+C:\Users\vagge\Desktop\CarApp\samples\bin\System.Web.Http.xml
+C:\Users\vagge\Desktop\CarApp\samples\bin\System.Web.Http.WebHost.xml
+C:\Users\vagge\Desktop\CarApp\samples\obj\Debug\samples.dll
+C:\Users\vagge\Desktop\CarApp\samples\obj\Debug\samples.pdb
+C:\Users\vagge\Desktop\CarApp\samples\obj\Debug\CarApp.csprojResolveAssemblyReference.cache

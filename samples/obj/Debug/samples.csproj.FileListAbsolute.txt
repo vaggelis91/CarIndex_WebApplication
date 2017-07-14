@@ -1,0 +1,82 @@
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\ApplicationInsights.config
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\roslyn\csc.exe
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\roslyn\vbc.exe
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\roslyn\VBCSCompiler.exe
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\samples.dll.config
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\samples.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\samples.pdb
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.AI.Web.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Newtonsoft.Json.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\System.Net.Http.Formatting.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\System.Web.Http.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\System.Web.Http.WebHost.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.AI.Web.xml
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\Newtonsoft.Json.xml
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\System.Net.Http.Formatting.xml
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\System.Web.Http.xml
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\bin\System.Web.Http.WebHost.xml
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\obj\Debug\samples.dll
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\obj\Debug\samples.pdb
+C:\Users\GioFloS\documents\visual studio 2015\Projects\samples\samples\obj\Debug\samples.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\samples\samples\bin\ApplicationInsights.config
+D:\Programming\Projects\samples\samples\bin\roslyn\csc.exe
+D:\Programming\Projects\samples\samples\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programming\Projects\samples\samples\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\Projects\samples\samples\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programming\Projects\samples\samples\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programming\Projects\samples\samples\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programming\Projects\samples\samples\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programming\Projects\samples\samples\bin\roslyn\System.Collections.Immutable.dll
+D:\Programming\Projects\samples\samples\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programming\Projects\samples\samples\bin\roslyn\vbc.exe
+D:\Programming\Projects\samples\samples\bin\roslyn\VBCSCompiler.exe
+D:\Programming\Projects\samples\samples\bin\roslyn\VBCSCompiler.exe.config
+D:\Programming\Projects\samples\samples\bin\samples.dll.config
+D:\Programming\Projects\samples\samples\bin\samples.dll
+D:\Programming\Projects\samples\samples\bin\samples.pdb
+D:\Programming\Projects\samples\samples\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Programming\Projects\samples\samples\bin\Microsoft.AI.DependencyCollector.dll
+D:\Programming\Projects\samples\samples\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Programming\Projects\samples\samples\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Programming\Projects\samples\samples\bin\Microsoft.AI.Web.dll
+D:\Programming\Projects\samples\samples\bin\Microsoft.AI.WindowsServer.dll
+D:\Programming\Projects\samples\samples\bin\Microsoft.ApplicationInsights.dll
+D:\Programming\Projects\samples\samples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programming\Projects\samples\samples\bin\Newtonsoft.Json.dll
+D:\Programming\Projects\samples\samples\bin\System.Net.Http.Formatting.dll
+D:\Programming\Projects\samples\samples\bin\System.Web.Http.dll
+D:\Programming\Projects\samples\samples\bin\System.Web.Http.WebHost.dll
+D:\Programming\Projects\samples\samples\bin\Microsoft.AI.DependencyCollector.xml
+D:\Programming\Projects\samples\samples\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Programming\Projects\samples\samples\bin\Microsoft.AI.Web.xml
+D:\Programming\Projects\samples\samples\bin\Microsoft.AI.WindowsServer.xml
+D:\Programming\Projects\samples\samples\bin\Microsoft.ApplicationInsights.xml
+D:\Programming\Projects\samples\samples\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programming\Projects\samples\samples\bin\Newtonsoft.Json.xml
+D:\Programming\Projects\samples\samples\bin\System.Net.Http.Formatting.xml
+D:\Programming\Projects\samples\samples\bin\System.Web.Http.xml
+D:\Programming\Projects\samples\samples\bin\System.Web.Http.WebHost.xml
+D:\Programming\Projects\samples\samples\obj\Debug\samples.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\samples\samples\obj\Debug\samples.dll
+D:\Programming\Projects\samples\samples\obj\Debug\samples.pdb

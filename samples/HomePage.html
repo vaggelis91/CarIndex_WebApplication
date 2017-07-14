@@ -1,0 +1,318 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Car Index</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="scripts/ConnectionToWebApi.js"></script>
+	<script src="scripts/SearchFilter.js"></script>
+    <style>
+		.container-fluid {
+			padding: 0;
+			margin: 0;
+		}
+
+		#carIndex{
+			color:white;
+			font-size:1.8em;
+			text-align:center;
+		}
+
+		ul {
+			list-style-type: none;
+			padding: 40px 0px;
+			background-color: #2a3039;
+			margin: 0;
+		}
+
+		#text {
+			text-align:center;
+			padding:45px 0px;
+		}
+
+		form {
+			padding-top: 5px;
+		}
+
+		#buttonsDiv{
+			margin-bottom:80px;
+		}
+
+		#clearbtn {
+			margin-right:8px;			
+		}
+
+		#paragraph {
+			text-align: justify;
+			padding: 0px 40px 0px 30px;
+			margin-bottom: 30px;
+		}
+
+		span {
+			color: crimson;
+			font-size: 1.2em;
+		}
+
+		.clear:after {
+			content: "";
+			display: table;
+			clear: both;
+		}
+
+		#comments {
+			text-align: center;
+			font-size: 1.2em;
+		}
+
+		.table-responsive {
+			margin: 0px 10px;
+		}
+
+		#contact {
+			font-weight: bolder;
+			margin-top: 115px;
+			padding-bottom: 25px;
+			text-align: center;
+			font-size: 1.8em;
+		}
+			#contact:hover {
+				cursor: pointer;
+			}
+
+        #contactSection {
+            margin-bottom:35px;            
+            margin:0px 6px;
+        }
+
+		#sendEmailBtn {
+			margin: 10px 0px 40px 0px;
+			border: solid 1px #f2c2c2;
+		}
+		
+		footer {
+			padding: 40px 0px;
+			background-color: #2a3039;
+			text-align: center;
+			color: white;
+		}
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <ul>
+            <li id="carIndex">CarIndex</li>
+        </ul> 
+
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+            </ol>
+
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <img src="car1.jpg" style="width:100%; height:450px;" alt="Renault">
+                    <div class="carousel-caption">
+                        <h3 style="color:black;">Renault</h3>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <img src="car1.jpg" style="width:100%; height:450px;" alt="Renault">
+                    <div class="carousel-caption">
+                        <h3 style="color:black;">Renault</h3>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <img src="car1.jpg" style="width:100%; height:450px;" alt="Renault">
+                    <div class="carousel-caption">
+                        <h3 style="color:black;">Renault</h3>
+                    </div>
+                </div>
+            </div>
+
+            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+		
+        <h3 id="text">Search for any car you like.</h3>
+
+        <form class="col-sm-3">
+            <div class="form-group" >
+
+                <div class="form-inline">
+                    <label style="padding-right:74px;" for="text">Brand</label>
+                    <select style="width:160px;" class="form-control" id="brandSelector">
+                        <option id="space"></option>
+                        <option id="optAlfaRomeo">Alfa Romeo</option>
+                        <option id="optAudi">Audi</option>
+                        <option id="optBMW">BMW</option>
+                        <option id="optFord">Ford</option>
+                        <option id="optJeep">Jeep</option>
+                    </select>
+                </div>
+                <br>
+                <div class="form-inline">
+                    <label style="padding-right:72px;" for="text">Model</label>
+                    <select style="width:160px;" class="form-control" id="modelSelector">
+                        <option></option>
+                    </select>
+                </div>
+                <br>
+                <div class="form-inline">
+                    <label style="padding-right:4px;" for="text">Engine Capacity</label>
+                    <select style="width:160px;" class="form-control" id="engineCapacitySelector">
+                        <option></option>
+                        <option>1200 - 1400</option>
+                        <option>1400 - 1600</option>
+                        <option>1600 - 1800</option>
+                        <option>1800 - 2000</option>
+                        <option>2000 - 2500</option>
+                        <option>2500 - 3000</option>
+						<option>3000 - 5000</option>
+                    </select>
+                </div>
+                <br>
+                <div class="form-inline">
+                    <label style="padding-right:49px;" for="text">Fuel Type</label>
+                    <select style="width:160px;" class="form-control" id="fuelTypeSelector">
+                        <option></option>
+                        <option>Petrol</option>
+                        <option>Diesel</option>
+                        <option>Gas</option>
+                    </select>
+                </div>
+                <br>
+                <div class="form-inline">
+                    <label style="padding-right:84px;" for="text">Type</label>
+                    <select style="width:160px;" class="form-control" id="typeSelector">
+                        <option></option>
+                        <option>Coupe</option>
+                        <option>Cabriolet</option>
+                        <option>Off Road</option>
+                        <option>Sedan</option>
+                        <option>Hatchback</option>
+                        <option>Jeep</option>
+                        <option>Pick Up</option>
+                    </select>
+                </div>
+                <br>
+                <div class="form-inline">
+                    <label style="padding-right:47px;" for="text">Condition</label>
+                    <select style="width:160px;" class="form-control" id="conditionSelector">
+                        <option>New</option>
+                        <option>Reused</option>
+                    </select>
+                </div>
+                <br>
+                <div class="form-inline">
+                    <label style="padding-right:80px;" for="text">Price</label>
+                    <select style="width:160px;" class="form-control" id="priceSelector">
+                        <option></option>
+                        <option>3000 - 10000</option>
+                        <option>10000 - 25000</option>
+                        <option>25000 - 50000</option>
+                        <option>50000 - 100000</option>
+                        <option>100000 - 200000</option>
+                        <option>200000 - 400000</option>
+                    </select>
+                </div>         
+            </div>
+
+			<div id="buttonsDiv" class="form-inline" > 
+				<div class="col-md-5"></div>
+				<button id="clearbtn" type="button" class="btn btn-default">Clear</button>
+				<button id="searchbtn" type="button" class="btn btn-default">Search</button>
+			</div>
+        </form>
+
+        <div id="paragraph">
+			<span>Lamborghini Aventador</span> is a mid-engined sports car produced by the Italian manufacturer Lamborghini.
+			Launched on 28 February 2011 at the Geneva Motor Show, five months after its initial unveiling in 
+			Sant'Agata Bolognese, the vehicle, internally codenamed LB834, was designed to replace the then-decade-old 
+			Murciélago as the new flagship model. Soon after the Aventador unveiling, Lamborghini announced that it 
+			had already sold over 12 of the production vehicles, with deliveries starting in the second half of 2011. 
+			By March 2016, Lamborghini had already built 5,000 Aventadors, taking five years to achieve this milestone.			 
+			<br>Keeping with Lamborghini tradition, the Aventador is named after a fighting bull. Aventador was a bull 
+			that fought particularly valiantly in the bull ring of Zaragoza, Spain in 1993. The bull which the Aventador 
+			is named after earned the Trofeo de la Peña La Madroñera for its courage in the arena. 
+			<br>The Lamborghini Aventador S was revealed on 19 December 2016. Subsequently the 2017 Lamborghini Aventador S was launched in India at Rs 5.01 crore. The 6.5 
+			litre V12 engine now produces 740 PS (544 kW 730 bhp) at 8,400 rpm (40 PS more than the standard Aventador) 
+			and 690 N·m (509 lb·ft) at 5,500 rpm. The performance figures are the same as the standard Aventador. 
+			The S received four wheel steering, permanent four wheel drive and a slightly updated suspension. The suspension 
+			is controlled by the ‘Lamborghini Dinamica Veicolo Attiva’ (LDVA) control unit. The LDVA has four selectable 
+			modes – Sport, Strada, Corsa and Ego. Carbon ceramic brakes are standard (front: 400 mm, rear: 380 mm). 
+			The nose was redesigned with a bigger front splitter and two new air ducts in the front bumper. At the rear it 
+			has a new black rear diffuser with fins and three single exit exhausts tips. It has 130 percent more front 
+			downforce than the standard Aventador.			
+        </div>
+        <div class="clear"></div> 
+
+        <div id="comments">No results yet. Click on 'Search' to view our selections.</div>
+
+        <div class="table-responsive">
+            <table id="carTable" class="table table-bordered table-condensed table-striped">
+                <thead>
+                    <tr>
+                        <th>Brand</th>
+                        <th>Model</th>
+						<th>Engine Type</th>                      
+                        <th>Engine Capacity</th>				
+                        <th>Max Speed</th>
+                        <th>Acceleration</th>
+						<th>Horse Power</th>
+                        <th>Fuel Type</th>
+                        <th>Fuel Consuption</th>
+                        <th>Type</th>
+                        <th>Doors</th>
+                        <th>Price (€)</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+		
+        <h2 id="contact">Contact</h2>
+
+        <div id="contactSection" class="row">
+			<div class="col-md-2">
+				<p><span class="glyphicon glyphicon-phone"></span>&nbsp;Phone: +00 1515151515</p>
+				<p><span class="glyphicon glyphicon-envelope"></span>&nbsp;Email: mail@mail.com</p>
+				<p><span class="glyphicon glyphicon-road"></span>&nbsp;&nbsp;Address: 5th Central Avenue, Greece</p>
+			</div>
+
+			<div class="col-md-10">
+				<div class="row">
+					<div class="col-md-6 form-group">
+						<input class="form-control" id="name" name="name" placeholder="Name" type="text">
+					</div>
+					<div class="col-md-6 form-group">
+						<input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+					</div>
+				</div>
+				<textarea class="form-control" id="commentsBox" name="commentsBox" placeholder="Comments" rows="5"></textarea>
+				<div class="row">
+					<div class="col-md-12 form-group">
+						<button id="sendEmailBtn" class="btn pull-right">Send</button>
+					</div>
+				</div>
+			</div>  			
+        </div>
+
+        <footer>Copyright 2017</footer>
+
+    </div>
+
+</body>
+</html>
